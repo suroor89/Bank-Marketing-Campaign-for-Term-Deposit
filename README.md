@@ -1,7 +1,12 @@
 # Bank-Marketing-for-Client-Subscription-
 The data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit.
-Data Set Information:
 
+Any marketing offers a powerful and efficient way to connect with customers, and provide solutions to answer concerns and fuel their goals. Also, marketing can be overwhelming.
+
+# Business Problem
+Portuguese bank lost their revenue and they wanted to investigate why their revenue declined. So, they can take necessary steps to solve bank problem. After analysis, they found out that the main reason is that their clients are not depositing as frequently as before. Expressive to term deposit allow banks to hold onto a deposit for certain amount of time, so banks can invest in higher gain financial products to make a profit. Furthermore, banks also hold better chance to encourage term deposit clients into buying other products such as funds or insurance to further increase their revenues. Consequently, the Portuguese bank would like to identify existing clients that have higher chance to subscribe for a term deposit and focus marketing effort on such clients.
+
+# Data Set Information:
 The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed. 
 
 # Dataset: 
@@ -40,5 +45,5 @@ Input variables:
 # Output variable (desired target):
 21 - y - has the client subscribed a term deposit? (binary: 'yes','no')
 
-Reference:
+# Reference:
 S. Moro, P. Cortez and P. Rita. A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems, Elsevier, 62:22-31, June 2014
