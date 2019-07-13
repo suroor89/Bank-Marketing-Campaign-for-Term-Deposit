@@ -16,7 +16,7 @@ The classification goal is to predict if the client will subscribe (yes/no) a te
 
 ### Attribute Information:
 
-Input variables:
+#### Input variables:
 ### Bank Client Data:
 1 - age (numeric)\
 2 - job : type of job (categorical: 'admin.','blue-collar','entrepreneur','housemaid','management','retired','self-employed','services','student','technician','unemployed','unknown')\
