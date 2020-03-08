@@ -7,6 +7,9 @@ Any marketing offers a powerful and efficient way to connect with customers, and
 Portuguese bank lost their revenue and they wanted to investigate why their revenue declined. So, they can take necessary steps to solve bank problem. After analysis, they found out that the main reason is that their clients are not depositing as frequently as before. Expressive to term deposit allow banks to hold onto a deposit for certain amount of time, so banks can invest in higher gain financial products to make a profit. Furthermore, banks also hold better chance to encourage term deposit clients into buying other products such as funds or insurance to further increase their revenues. Consequently, the Portuguese bank would like to identify existing clients that have higher chance to subscribe for a term deposit and focus marketing effort on such clients.
 
 ### Data Set Information:
+
+The data on Bank Marketing Data Set can be obtained from the UCI - Machine Learning Repository (http://archive.ics.uci.edu/ml/datasets/Bank+Marketing) which has file bank-additional-full.csv with all examples (41188) and 20 inputs, ordered by date (from May 2008 to November 2010).
+
 The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed. 
 
 ### Dataset: 
